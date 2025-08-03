@@ -90,6 +90,20 @@ This machine learning model predicts whether an employee's salary is **above or 
 * 📊 Confusion Matrix & Feature Importance: Visualized in notebook
 
 ---
+## 📊 Accuracy Predictions
+![Predicting the Highest Accuracy](img/Accuarcy_Preditctions.png)
+
+## 📈 Model Comparisons
+![Model Comparisons](img/Model_Comparisons.png)
+
+## 📱 App Running Screenshot
+![App Running](img/App_Running.png)
+
+## 🧾 Sample Output 1
+![Sample Output 1](img/Sample_Output1.png)
+
+## 🧾 Sample Output 2
+![Sample Output 2](img/Sample_Output2.png)
 
 ## 🔍 Example Prediction
 
